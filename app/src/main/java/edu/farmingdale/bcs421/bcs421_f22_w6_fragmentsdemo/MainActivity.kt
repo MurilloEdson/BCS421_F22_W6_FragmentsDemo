@@ -1,11 +1,10 @@
 package edu.farmingdale.bcs421.bcs421_f22_w6_fragmentsdemo
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
-import android.widget.TextView
-
+import android.widget.*
 
 
 class MainActivity : AppCompatActivity() {
